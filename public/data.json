@@ -1,0 +1,30 @@
+{
+    "profile":
+        {
+            "name": "Pepega",
+            "bio": "The politically correct way of saying retarded"
+        },
+    "blogs":
+        [   
+            {
+                "title": "What does 'pepega' mean?",
+                "url": "https://www.quora.com/What-does-pepega-mean-2",
+                "date": "May 2020"
+            }
+        ],
+    "projects": 
+        [
+            {
+                "name": "betterttv",
+                "url": "https://github.com/night/betterttv",
+                "description": "BetterTTV enhances Twitch with new features, emotes, and more.."
+            }
+        ],
+    "achievements":
+        [
+            {
+            "title": "🥇 1st Place emote of the year",
+            "description": "Oct 2020, twitch.tv"
+            }
+        ]
+}
